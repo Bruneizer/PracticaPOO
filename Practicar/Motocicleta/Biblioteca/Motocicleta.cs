@@ -16,11 +16,10 @@ public Motocicleta(string Patente, string Color, string Modelo)
 public void Encender()
 {
  EstadoMotor = true;
-}
-public void Apagar()
+}public void Apagar()
 {
- EstadoMotor = false;
-}
+ EstadoMotor = faslse;
+}s
 public void Verificar()
 {
     if(EstadoMotor == true){
@@ -35,5 +34,5 @@ public void informar()
 {
     Console.WriteLine($"La motocicleta de modelo {Modelo} con patente {Patente} y color {Color} ");
 }
-
+s
 }
