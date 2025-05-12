@@ -1,0 +1,12 @@
+C:\Users\carlo\OneDrive\Escritorio\POO\PracticaPOO\Practicar\Youtube\Biblioteca\bin\Debug\net8.0\Biblioteca.deps.json
+C:\Users\carlo\OneDrive\Escritorio\POO\PracticaPOO\Practicar\Youtube\Biblioteca\bin\Debug\net8.0\Biblioteca.dll
+C:\Users\carlo\OneDrive\Escritorio\POO\PracticaPOO\Practicar\Youtube\Biblioteca\bin\Debug\net8.0\Biblioteca.pdb
+C:\Users\carlo\OneDrive\Escritorio\POO\PracticaPOO\Practicar\Youtube\Biblioteca\obj\Debug\net8.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Escritorio\POO\PracticaPOO\Practicar\Youtube\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\POO\PracticaPOO\Practicar\Youtube\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Escritorio\POO\PracticaPOO\Practicar\Youtube\Biblioteca\obj\Debug\net8.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\POO\PracticaPOO\Practicar\Youtube\Biblioteca\obj\Debug\net8.0\Biblioteca.sourcelink.json
+C:\Users\carlo\OneDrive\Escritorio\POO\PracticaPOO\Practicar\Youtube\Biblioteca\obj\Debug\net8.0\Biblioteca.dll
+C:\Users\carlo\OneDrive\Escritorio\POO\PracticaPOO\Practicar\Youtube\Biblioteca\obj\Debug\net8.0\refint\Biblioteca.dll
+C:\Users\carlo\OneDrive\Escritorio\POO\PracticaPOO\Practicar\Youtube\Biblioteca\obj\Debug\net8.0\Biblioteca.pdb
+C:\Users\carlo\OneDrive\Escritorio\POO\PracticaPOO\Practicar\Youtube\Biblioteca\obj\Debug\net8.0\ref\Biblioteca.dll
