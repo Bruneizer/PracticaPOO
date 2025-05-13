@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Biblioteca/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Biblioteca.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Biblioteca.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Biblioteca/1.0.0": {
+      "type": "project",
+      "path": "../Biblioteca/Biblioteca.csproj",
+      "msbuildProject": "../Biblioteca/Biblioteca.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Biblioteca >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\carlo\\.nuget\\packages\\": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\carlo\\OneDrive\\Escritorio\\POO\\PracticaPOO\\Listas\\Biblioteca\\Biblioteca.csproj": {
+              "projectPath": "C:\\Users\\carlo\\OneDrive\\Escritorio\\POO\\PracticaPOO\\Listas\\Biblioteca\\Biblioteca.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

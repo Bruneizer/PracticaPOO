@@ -28,3 +28,7 @@ C:\Users\carlo\OneDrive\Escritorio\POO\PracticaPOO\Listas\Consola\obj\Debug\net8
 C:\Users\carlo\OneDrive\Escritorio\POO\PracticaPOO\Listas\Consola\obj\Debug\net8.0\Consola.pdb
 C:\Users\carlo\OneDrive\Escritorio\POO\PracticaPOO\Listas\Consola\obj\Debug\net8.0\Consola.genruntimeconfig.cache
 C:\Users\carlo\OneDrive\Escritorio\POO\PracticaPOO\Listas\Consola\obj\Debug\net8.0\ref\Consola.dll
+C:\Users\carlo\OneDrive\Escritorio\POO\PracticaPOO\Listas\Consola\bin\Debug\net8.0\Biblioteca.dll
+C:\Users\carlo\OneDrive\Escritorio\POO\PracticaPOO\Listas\Consola\bin\Debug\net8.0\Biblioteca.pdb
+C:\Users\carlo\OneDrive\Escritorio\POO\PracticaPOO\Listas\Consola\obj\Debug\net8.0\Consola.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\POO\PracticaPOO\Listas\Consola\obj\Debug\net8.0\Consola.csproj.Up2Date
