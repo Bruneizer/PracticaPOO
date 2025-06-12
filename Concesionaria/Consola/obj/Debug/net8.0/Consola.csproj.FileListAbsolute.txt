@@ -1,0 +1,6 @@
+C:\Users\Lab15-PC01\Documents\GitHub\PracticaPOO\Concesionaria\Consola\obj\Debug\net8.0\Consola.csproj.AssemblyReference.cache
+C:\Users\Lab15-PC01\Documents\GitHub\PracticaPOO\Concesionaria\Consola\obj\Debug\net8.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab15-PC01\Documents\GitHub\PracticaPOO\Concesionaria\Consola\obj\Debug\net8.0\Consola.AssemblyInfoInputs.cache
+C:\Users\Lab15-PC01\Documents\GitHub\PracticaPOO\Concesionaria\Consola\obj\Debug\net8.0\Consola.AssemblyInfo.cs
+C:\Users\Lab15-PC01\Documents\GitHub\PracticaPOO\Concesionaria\Consola\obj\Debug\net8.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Lab15-PC01\Documents\GitHub\PracticaPOO\Concesionaria\Consola\obj\Debug\net8.0\Consola.sourcelink.json

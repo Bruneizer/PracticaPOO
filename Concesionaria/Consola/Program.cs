@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Biblioteca; 
+
+var autoFamiliar = new AutoFamiliar("A123","Toyota",2015,30,000,2,000,new MotorCombustion("Auto"),5);

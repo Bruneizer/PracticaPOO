@@ -6,15 +6,17 @@ public string NumeroSerieMotor {get; set;}
 public string Marca {get; set;}
 public int Anio {get; set;}
 public decimal Precio {get; set;}
-public string Variante {get; set;}
+public double Kilometraje {get; set;}
+public Motor motor {get; set;}
 
-public AutoSupremo(string numeroSerieMotor, string marca, int anio, decimal precio, string variante)
+public AutoSupremo(string numeroSerieMotor, string marca, int anio, decimal precio, double kilometraje,Motor motor)
 {
     NumeroSerieMotor = numeroSerieMotor;
     Marca = marca;
     Anio = anio;
     Precio = precio;
-    Variante = variante;
+    Kilometraje = kilometraje;
+    Motor = motor;
 } 
 
 
