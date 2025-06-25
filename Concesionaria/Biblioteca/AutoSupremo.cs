@@ -16,9 +16,6 @@ public AutoSupremo(string numeroSerieMotor, string marca, int anio, decimal prec
     Anio = anio;
     Precio = precio;
     Kilometraje = kilometraje;
-    Motor = motor;
+    this.motor = motor;
 } 
-
-
-
 }

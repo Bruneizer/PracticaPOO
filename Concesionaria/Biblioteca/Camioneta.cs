@@ -16,7 +16,7 @@ public class Camioneta : AutoSupremo
 {
     public decimal CapacidadDeCarga { get; set; }
 
-    public Camioneta(string numeroSerieMotor, string marca,int anio, decimal precio,double kilometraje,decimal capacidadDeCarga ) 
+    public Camioneta(string numeroSerieMotor, string marca,int anio, decimal precio,double kilometraje,decimal capacidadDeCarga, Motor motor ) 
     : base(numeroSerieMotor, marca, anio, precio,kilometraje,motor)
     {
         CapacidadDeCarga = CapacidadDeCarga;
